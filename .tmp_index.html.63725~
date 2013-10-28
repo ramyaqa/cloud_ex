@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
         <title>Sample: get started with data</title>
@@ -30,7 +30,7 @@
         </div>
 
         <script src='http://code.jquery.com/jquery-1.9.0.min.js'></script>
-		<script src='https://todolistramya.azure-mobile.net/client/MobileServices.Web-1.0.0.min.js'></script>
+		<!--<script src='**APP_URL**/client/MobileServices.Web-1.0.0.min.js'></script>-->
         <script src='app.js'></script>
     </body>
 </html>
